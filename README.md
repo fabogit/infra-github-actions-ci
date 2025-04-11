@@ -1,0 +1,1 @@
+# Configuring Continuous Integration tests
